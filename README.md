@@ -1,1 +1,1 @@
-# easy_list
+![gycha](./gycha.gif)
